@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 ---
 
 ## 📜 Certifications
-- [SQL and Relational Databases 101](#)
+- [SQL and Relational Databases 101](#https://courses.cognitiveclass.ai/certificates/acb90e469052466bbec6237c7492ccca)
 
 ---
 
