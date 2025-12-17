@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 
 ## 📜 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/acb90e469052466bbec6237c7492ccca)
-- [Oracle Cloud Data Platform Foundation Associate]().
+- [Oracle Cloud Data Platform Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=63DABD92C03B15830FEA2A56E47C84A9BCAEE7598B0315A1A991364C7FC4171E).
 
 ---
 
