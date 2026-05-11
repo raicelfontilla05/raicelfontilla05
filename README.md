@@ -15,7 +15,7 @@ A dedicated **Information Technology** student at New Era University focused on 
 *   **Programming Languages:** Java, Python, PHP, JavaScript, Bash
 *   **Web Development:** HTML5, CSS3, React, Vite
 *   **Databases:** MySQL, NoSQL (DBaaS)
-*   **Tools & Platforms:** GitHub, Git, Oracle Cloud Infrastructure, Supabase, Firebase
+*   **Tools & Platforms:** GitHub, Git, Oracle Cloud Infrastructure, Supabase
 
 ---
 
