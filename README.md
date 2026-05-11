@@ -1,6 +1,6 @@
 # Hi there, I'm Raicel Fontilla 👋
 
-A dedicated **Information Technology** student at New Era University with a focus on building robust applications, exploring cloud architectures, and leveraging automation to solve complex problems.
+A dedicated **Information Technology** student at New Era University focused on building robust applications, exploring cloud architectures, and leveraging automation to solve complex problems.
 
 ---
 
@@ -8,36 +8,33 @@ A dedicated **Information Technology** student at New Era University with a focu
 - **Bachelor of Science in Information Technology**  
   *New Era University*  
   **2024 – Present**
-
 ---
 
 ## 🛠️ Skill Sets
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Platforms & Tools**| ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+*   **Programming Languages:** Java, Python, PHP, JavaScript, Bash
+*   **Web Development:** HTML5, CSS3, React, Vite
+*   **Databases:** MySQL, NoSQL (DBaaS)
+*   **Tools & Platforms:** GitHub, Git, Oracle Cloud Infrastructure, Supabase, Firebase
 
 ---
 
 ## 📜 Certifications
 
 *   **Oracle Cloud Infrastructure (OCI) 2025**
-    *   Certified AI Foundations Associate
-    *   Certified Foundations Associate
-    *   Data Platform Certified Foundations Associate
+    *   [Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1B85A7027736F74BFD9A1C743A0BBC307A87644ABB49856D6EFB7F6CC42E84BE)
+    *   [Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7A8014AE1F6EAE420E311EA4DCC6871233EFCD1E2642C5451EA334290A8B3EC4)
+    *   [Data Platform Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=63DABD92C03B15830FEA2A56E47C84A9BCAEE7598B0315A1A991364C7FC4171E)
 *   **Cognitive Class & IBM**
-    *   SQL and Relational Databases 101
-    *   NoSQL and DBaaS 101
+    *   [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/acb90e469052466bbec6237c7492ccca)
+    *   [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/66f58116da864ea490dd1598cf1f9022)
 
 ---
 
 ## 📂 Projects
-*   **[NEU Library Log](https://github.com/your-username/neu-library-log)** – A React-based visitor management system using Google Auth and RFID concepts.
-*   **[Vehicle Parking System](https://github.com/your-username)** – A Java application implementing OOP principles for automated fee calculation.
-*   **[Crystal Cove](https://github.com/your-username)** – An elegant jewelry brand website landing page emphasizing clean UI/UX.
+*   **[NEU Library Visitor Log](https://github.com/your-username)** – A React-based attendance system utilizing RFID and Google Authentication.
+*   **[Vehicle Parking Management System](https://github.com/your-username)** – A Java-based system applying OOP concepts for parking fee calculations.
+*   **[Crystal Cove Jewelry](https://github.com/your-username)** – A minimalist, luxury-themed web interface built with HTML and CSS.
 
 ---
 
@@ -49,6 +46,3 @@ A dedicated **Information Technology** student at New Era University with a focu
 
 ### 📊 GitHub Activity
 ![Raicel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-*Generated with care to showcase technical growth and professional excellence.*
