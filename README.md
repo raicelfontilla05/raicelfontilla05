@@ -34,15 +34,9 @@ A dedicated **Information Technology** student at New Era University focused on 
 ## 📂 Projects
 *   **[NEU Library Visitor Log](https://github.com/your-username)** – A React-based attendance system utilizing RFID and Google Authentication.
 *   **[Vehicle Parking Management System](https://github.com/your-username)** – A Java-based system applying OOP concepts for parking fee calculations.
-*   **[Crystal Cove Jewelry](https://github.com/your-username)** – A minimalist, luxury-themed web interface built with HTML and CSS.
+*   **[Crystal Cove Jewelry](https://github.com/raicelfontilla05/Crystal-Cove)** – A minimalist, luxury-themed web interface built with HTML and CSS.
 
 ---
 
 ## 📫 Connect with me
 - 📧 **Email:** [raicelfontilladump@gmail.com](mailto:raicelfontilladump@gmail.com)
-- 💼 **LinkedIn:** [Your Profile Link Here]
-
----
-
-### 📊 GitHub Activity
-![Raicel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
