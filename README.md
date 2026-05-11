@@ -1,8 +1,5 @@
 # Hi there, I'm Raicel Fontilla 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=polywork)](https://github.com/your-username)
-
 A dedicated **Information Technology** student at New Era University with a focus on building robust applications, exploring cloud architectures, and leveraging automation to solve complex problems.
 
 ---
